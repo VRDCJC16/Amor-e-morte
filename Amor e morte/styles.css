@@ -1,0 +1,30 @@
+body {
+    background-color:#b90505;
+    color: rgb(221, 116, 116);
+    font-family: "Playpen Sans", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: hsl(0, 100%, 50%);
+    color: #fcc2c2;
+    font-family: "Playpen Sans", cursive;
+}
+.passo {
+    display: none;
+}
+.passo.aivo {
+    display: block;
+}
+main{
+    max-width: 90%;
+    text-align: center;
+
+}
+img{
+    max-width: 90% ;
+
+}
